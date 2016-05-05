@@ -1,0 +1,55 @@
+***************************
+** Clear section 1 and 3 **
+***************************
+#INI____ALL_SECTIONS:3
+INI____ALL_SECTIONS:SECTION1 SECTION2 SECTION3
+#INI____ALL_VARS:12
+INI____ALL_VARS:INI__var1 INI__var2 INI__var3 INI__var4 INI__var5 INI__var6 INI__SECTION1__var1 INI__SECTION1__var2 INI__SECTION2__var3 INI__SECTION2__var4 INI__SECTION3__var5 INI__SECTION3__var6
+
+#INI____ALL_SECTIONS:1
+INI____ALL_SECTIONS:SECTION2
+#INI____ALL_VARS:8
+INI____ALL_VARS:INI__var1 INI__var2 INI__var3 INI__var4 INI__var5 INI__var6 INI__SECTION2__var3 INI__SECTION2__var4
+
+
+****************************
+** Clear sectionless vars **
+****************************
+#INI____ALL_SECTIONS:3
+INI____ALL_SECTIONS:SECTION1 SECTION2 SECTION3
+#INI____ALL_VARS:12
+INI____ALL_VARS:INI__var1 INI__var2 INI__var3 INI__var4 INI__var5 INI__var6 INI__SECTION1__var1 INI__SECTION1__var2 INI__SECTION2__var3 INI__SECTION2__var4 INI__SECTION3__var5 INI__SECTION3__var6
+
+#INI____ALL_SECTIONS:3
+INI____ALL_SECTIONS:SECTION1 SECTION2 SECTION3
+#INI____ALL_VARS:6
+INI____ALL_VARS:INI__SECTION1__var1 INI__SECTION1__var2 INI__SECTION2__var3 INI__SECTION2__var4 INI__SECTION3__var5 INI__SECTION3__var6
+
+
+******************************************
+** Clear section 1 and sectionless vars **
+******************************************
+#INI____ALL_SECTIONS:3
+INI____ALL_SECTIONS:SECTION1 SECTION2 SECTION3
+#INI____ALL_VARS:12
+INI____ALL_VARS:INI__var1 INI__var2 INI__var3 INI__var4 INI__var5 INI__var6 INI__SECTION1__var1 INI__SECTION1__var2 INI__SECTION2__var3 INI__SECTION2__var4 INI__SECTION3__var5 INI__SECTION3__var6
+
+#INI____ALL_SECTIONS:2
+INI____ALL_SECTIONS:SECTION2 SECTION3
+#INI____ALL_VARS:4
+INI____ALL_VARS:INI__SECTION2__var3 INI__SECTION2__var4 INI__SECTION3__var5 INI__SECTION3__var6
+
+
+***************
+** Clear all **
+***************
+#INI____ALL_SECTIONS:3
+INI____ALL_SECTIONS:SECTION1 SECTION2 SECTION3
+#INI____ALL_VARS:12
+INI____ALL_VARS:INI__var1 INI__var2 INI__var3 INI__var4 INI__var5 INI__var6 INI__SECTION1__var1 INI__SECTION1__var2 INI__SECTION2__var3 INI__SECTION2__var4 INI__SECTION3__var5 INI__SECTION3__var6
+
+#INI____ALL_SECTIONS:0
+INI____ALL_SECTIONS:
+#INI____ALL_VARS:0
+INI____ALL_VARS:
+

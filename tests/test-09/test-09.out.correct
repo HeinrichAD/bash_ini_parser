@@ -1,0 +1,2 @@
+parse_ini [ERROR] Line parse error.
+Current KEY: '' Current VALUE: '' Current line: '[x=blah; ls ;]'

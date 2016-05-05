@@ -1,0 +1,49 @@
+multiline1: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et'
+multiline2: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+sed diam voluptua. At vero eos et accusam et 2'
+multiline3: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+sed diam voluptua. At vero eos et accusam et 3'
+multiline4: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+  sed diam voluptua. At vero eos et accusam et 4'
+
+multiline10: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et 10'
+multiline11: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+              sed diam voluptua. At vero eos et accusam et 11'
+multiline12: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, \
+    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, \
+              sed diam voluptua. At vero eos et accusam et 12'
+multiline13: 'Lorem ipsum "dolor sit amet, consetetur sadipscing elitr, \
+    sed diam nonumy eirmod tempor "invidunt" ut labore et dolore magna aliquyam erat,
+              sed diam voluptua. At vero eos et accusam et 13'
+multiline14: 'Lorem ipsum "dolor sit amet, consetetur sadipscing elitr, \
+    sed diam nonumy eirmod tempor "invidunt" ut labore et dolore magna aliquyam erat,'
+              sed diam voluptua. At vero eos et accusam et 14'
+
+multiline20: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et 20'
+multiline21: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+              sed diam voluptua. At vero eos et accusam et 21'
+multiline22: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, \
+    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, \
+              sed diam voluptua. At vero eos et accusam et 22'
+multiline23: 'Lorem ipsum 'dolor sit amet, consetetur sadipscing elitr, \
+    sed diam nonumy eirmod tempor 'invidunt' ut labore et dolore magna aliquyam erat,
+              sed diam voluptua. At vero eos et accusam et 23'
+multiline24: 'Lorem ipsum 'dolor sit amet, consetetur sadipscing elitr, \
+    sed diam nonumy eirmod tempor 'invidunt' ut labore et dolore magna aliquyam erat,"
+              sed diam voluptua. At vero eos et accusam et 24'
+
+#INI____ALL_SECTIONS:0
+INI____ALL_SECTIONS:
+#INI____ALL_VARS:14
+INI____ALL_VARS:INI__multiline1 INI__multiline2 INI__multiline3 INI__multiline4 INI__multiline10 INI__multiline11 INI__multiline12 INI__multiline13 INI__multiline14 INI__multiline20 INI__multiline21 INI__multiline22 INI__multiline23 INI__multiline24

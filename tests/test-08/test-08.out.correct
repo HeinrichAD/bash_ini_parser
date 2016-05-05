@@ -1,0 +1,11 @@
+# 1
+var1:VAR 1
+section1 var1:section 1 VAR 1
+
+# 2
+parse_ini [ERROR] INI prefix is not valid.
+Prefix: 'PR:EFIX'
+
+# 3
+parse_ini [ERROR] INI prefix is not valid.
+Prefix: '1PREFIX'

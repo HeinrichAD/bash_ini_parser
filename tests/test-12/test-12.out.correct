@@ -1,0 +1,18 @@
+INI__first_section__one = '1'
+INI__first_section__five = '5'
+INI__first_section__animal = 'BIRD'
+
+INI__second_section__path = '/usr/local/bin'
+INI__second_section__URL = 'http://www.example.com/~username'
+
+INI__third_section__phpversion[0] = '5.0'
+INI__third_section__phpversion[1] = '5.1'
+INI__third_section__phpversion[2] = '5.2'
+INI__third_section__phpversion[3] = '5.3'
+#INI__third_section__phpversion[@] = '4'
+INI__third_section__phpversion[@] = '5.0 5.1 5.2 5.3'
+
+INI__third_section__urls[svn] = 'http://svn.php.net'
+INI__third_section__urls[git] = 'http://git.php.net'
+#INI__third_section__urls[@] = '2'
+INI__third_section__urls[@] = 'http://svn.php.net http://git.php.net'
