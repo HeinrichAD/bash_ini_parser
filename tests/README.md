@@ -23,7 +23,7 @@ test.sh is the testing script. Under the testing scipt there are the tests. Each
 
 ## Usage
 Run all test:<br />
-```$ .test.sh ```
+```$ ./test.sh ```
 
 Run specific tests:<br />
-```$ .test.sh 1 2 5```
+```$ ./test.sh 1 2 5```
