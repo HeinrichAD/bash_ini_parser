@@ -24,7 +24,7 @@
 #
 ###############################################################################
 # Source code
-# **GIT REPOSITORY URL**
+# https://github.com/HeinrichAD/bash_ini_parser
 #
 ###############################################################################
 # Available options/ Usage
