@@ -74,11 +74,10 @@ Clean/ unset variables.
 
 
 ## LICENSE
-[BSD-3-Clause]<br />
+GNU General Public License v3.0<br />
 For more information see LICENSE file.
 
 
 [bash_ini_parser]: <https://github.com/rudimeier/bash_ini_parser>
 [rudimeier]: <https://github.com/rudimeier>
 [jcass77]: <https://github.com/jcass77>
-[BSD-3-Clause]: <https://opensource.org/licenses/BSD-3-Clause>

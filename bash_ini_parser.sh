@@ -8,7 +8,7 @@
 #
 ###############################################################################
 # License
-# BSD-3-Clause, see LICENSE file.
+# GNU General Public License v3.0, see LICENSE file.
 #
 ###############################################################################
 # Intension and inspiration
