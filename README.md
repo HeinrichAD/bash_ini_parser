@@ -1,5 +1,5 @@
 # Bash INI parser
-Parse a simple ini file to an array.
+Parse a simple ini file or string.
 
 **Table of Contents**
 - [Intension and inspiration](#intension-and-inspiration)
