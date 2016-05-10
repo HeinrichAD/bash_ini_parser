@@ -9,12 +9,12 @@ Parse a simple ini file or string.
 
 
 ## Intension and inspiration
-I found the [bash_ini_parser] from [rudimeier], the pull request from [jcass77] to support multiline values and wanted to add the support of arrays like in php.<br />
-There was only one big problem. Bash does not support array nesting and the work of [rudimeier] based on arrays.
+I found the [bash_ini_parser](https://github.com/rudimeier/bash_ini_parser) from [rudimeier](https://github.com/rudimeier), the pull request from [jcass77](https://github.com/jcass77) to support multiline values and wanted to add the support of arrays like in php.<br />
+There was only one big problem. Bash does not support array nesting and the work of [rudimeier](https://github.com/rudimeier) based on arrays.
 Due to this and some other things I decided to create my own bash INI parser.
 
 Note: Some of the first function tests are still original work
-of [rudimeier] and/ or [jcass77].
+of [rudimeier](https://github.com/rudimeier) and/ or [jcass77](https://github.com/jcass77).
 
 
 ## Usage
@@ -75,9 +75,4 @@ Clean/ unset variables.
 
 ## LICENSE
 GNU General Public License v3.0<br />
-For more information see LICENSE file.
-
-
-[bash_ini_parser]: <https://github.com/rudimeier/bash_ini_parser>
-[rudimeier]: <https://github.com/rudimeier>
-[jcass77]: <https://github.com/jcass77>
+For more information see [LICENSE](/LICENSE) file.
